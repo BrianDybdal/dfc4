@@ -1,13 +1,13 @@
 /*   STEP 1   */
-export const leagueID = "733751875471589376"; // your league ID
-export const leagueName = "DFC1"; // your league name
+export const leagueID = "733752144393535488"; // your league ID
+export const leagueName = "DFC4"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Velkommen til DFC Liga #1</p>
+  <p>Velkommen til DFC Liga #4</p>
   `;
 
 /*   STEP 3   */
